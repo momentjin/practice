@@ -1,0 +1,5 @@
+practice:
+  submission-mode: framework
+  practice08:
+    queue-capacity: 2
+    work-millis: 2000
