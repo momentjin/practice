@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/batch-practice" />
+        <option name="gradleJvm" value="openjdk-27" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/batch-practice" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/redis-rate-limiter" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/redis-rate-limiter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway-webflux" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules"><set><option value="$PROJECT_DIR$/gateway-webflux" /></set></option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway-mvc" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules"><set><option value="$PROJECT_DIR$/gateway-mvc" /></set></option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
